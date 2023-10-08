@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "China"
 title                    : "Ziqian Liu(刘子骞)"
 title_separator          : "-"
 name                     : &name "Ziqian Liu"
-description              : &description "personal description"
+description              : &description "I am currently a senior computer science student at Northwestern Polytechnical University. I will enroll in the CDSLab of Renmin University of China in the fall of 2024 to pursue a doctoral degree, supervised by Professor Jing Wang and Professor Yunpeng Chai."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
